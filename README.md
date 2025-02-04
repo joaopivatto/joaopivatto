@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-## About me
+## 🙋‍♂️ About me
 #### 🧑‍🎓 College student at UFPR (Universidade Federal do Paraná). 
 #### 👨‍💻 IT Technician
 #### 💼 CEO 
