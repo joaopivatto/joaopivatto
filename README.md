@@ -30,6 +30,9 @@
 ##
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopivatto&layout=compact&bg_color=121212&border_color=121212&title_color=c1c1c1&text_color=FFF)
 
+
+## Projects
+- To see my other projects (Full APIs and Consumers), contact me. 
 <!--
 **joaopivatto/joaopivatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
