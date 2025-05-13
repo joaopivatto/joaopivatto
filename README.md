@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 #### 🧑‍🎓 College student at UFPR (Universidade Federal do Paraná). 
-#### 👨‍💻 IT Technician
+#### 👨‍💻 Back-End and Front-End Developer
 #### 💼 CEO 
 
 ## 📫 How to reach me
