@@ -29,7 +29,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ##
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopivatto&layout=compact&bg_color=121212&border_color=121212&title_color=c1c1c1&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopivatto&layout=compact&bg_color=121212&border_color=121212&title_color=c1c1c1&text_color=FFF)
+
 
 
 ## Projects
